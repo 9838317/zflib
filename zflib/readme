@@ -1,0 +1,26 @@
+1. mll
+    This program enables to genarate a linked List
+	Makell(List):
+	    tansfer the list into a linked list, return the head
+ 
+
+2. mrd
+    This program enables to generate a list, either sorted or un sorted.
+
+	ran(len, max): 
+	    return a list       with
+		length : len, 
+		maximum: max
+
+
+	ranSorted(len, max): 
+	    return a sorted list with
+		length : len, 
+		maximum: max
+
+
+	ranSortTest(target, len(optional), range(optional)):
+	    randomly generate a sorted list, and then see whether the target is in the list.
+
+3. mml
+    This is a machine learning implementation
